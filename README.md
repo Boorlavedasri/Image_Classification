@@ -5,7 +5,7 @@
 - This python script is used to identify the image using VGG16
 
 ## Usage:
-- Step 1: clone the repository 
+- Step 1: clone the repository https://github.com/Boorlavedasri/Image_Classification.git
 
 - Step 2: navigate the folder : cd arg_parser
 
