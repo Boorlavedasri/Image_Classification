@@ -9,4 +9,4 @@
 
 - Step 2: navigate the folder : cd arg_parser
 
-- Step 3: run the following code in your terminal : python .\run.py --imagepath "path of the image"
+- Step 3: run the following code in your terminal : python .\run.py --img "snail_image.jpg"
